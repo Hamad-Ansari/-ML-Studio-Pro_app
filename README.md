@@ -106,3 +106,6 @@ README.md           ← This file
 | `plotly` | Interactive charts |
 | `seaborn` | Example datasets |
 | `openpyxl` | Excel file support |
+```
+https://zcv2ywjvck4imbetwyc4v2.streamlit.app/
+```
